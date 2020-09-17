@@ -1,0 +1,83 @@
+[
+  {
+    "id": 100,
+    "code": "undefined_error",
+    "description": "Undefined error occurred"
+  },
+  {
+    "id": 102,
+    "code": "method_call_error",
+    "description": "Error occurred while attempted to call API Method"
+  },
+  {
+  "id": 101,
+    "code": "access_denied",
+    "description": "Access denied."
+  },
+  {
+    "id": 102,
+    "code": "access_denied_to_object",
+    "description": "You don't have access to interact with this object"
+  },
+  {
+    "id": 103,
+    "code": "wrong_method",
+    "description":"No such method or invalid method name"
+  },
+  {
+    "id": 104,
+    "code": "params_not_declared",
+    "description": "Request parameters required"
+  },
+  {
+    "id": 105,
+    "code": "wrong_method_parameter",
+    "description": "Wrong request parameter"
+  },
+  {
+    "id": 200,
+    "code": "no_such_user",
+    "description": "Invalid user id or user does not exist"
+  },
+  {
+    "id": 201,
+    "code": "user_already_exist",
+    "description": "User already exist"
+  },
+  {
+    "id": 202,
+    "code": "user_not_initialized",
+    "description": "User is not initialized"
+  },
+  {
+    "id": 301,
+    "code": "no_such_review",
+    "description": "Review for this object does not exist"
+  },
+  {
+    "id": 400,
+    "code": "organization_creation_error",
+    "description": "Error while trying to create organization"
+  },
+  {
+    "id": 401,
+    "code": "organization_update_error",
+    "description": "Error occurred while trying to update organization info"
+  },
+  {
+    "id": 402,
+    "code": "no_such_organization",
+    "description": "No such organization"
+  },
+  {
+    "id": 501,
+    "code": "food_update_error",
+    "description": "Error occurred while trying to update food info"
+  },
+  {
+    "id": 502,
+    "code": "no_such_food",
+    "description": "No such food"
+  }
+
+]
